@@ -33,5 +33,5 @@ python Data_Cleaning.py
 
 ## Authors
 
-* **Ishan Madan** - (https://github.com/ishanmadan1996)
-* **Prathamesh Kumkar** - (https://github.com/iPrathamKumkar)
+* **Ishan Madan** - [ishanmadan1996](https://github.com/ishanmadan1996)
+* **Prathamesh Kumkar** - [iPrathamKumkar](https://github.com/iPrathamKumkar)
