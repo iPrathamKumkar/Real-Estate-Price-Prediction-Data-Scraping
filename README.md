@@ -7,7 +7,7 @@ A web portal that makes use of machine learning techniques to predict housing pr
 Clone the repository:
 
 ```
-git clone https://github.com/ishanmadan1996/Real-Estate-Price-Prediction-Data-Extraction.git
+git clone https://github.com/iPrathamKumkar/Real-Estate-Price-Prediction-Data-Scraping.git
 ```
 
 Install the pre-requisite libraries:
